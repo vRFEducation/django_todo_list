@@ -23,10 +23,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/vRFEducation/django_todo_list">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Django Todo App/h3>
+  <h3 align="center">Django Todo App</h3>
 
   <p align="center">
     It's a simple project that shows you how to use django for creating simple web application. Via this project and the tutorial I created for it, you can easily learn about basics of django
