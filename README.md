@@ -34,7 +34,7 @@
     <a href="https://github.com/vRFEducation/django_todo_list"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/vRFEducation/django_todo_list">View Demo</a>
+    <a href="https://youtu.be/1I4Ch8Rv104">View Demo(Persian Video)</a>
     ·
     <a href="https://github.com/vRFEducation/django_todo_list/issues">Report Bug</a>
     ·
